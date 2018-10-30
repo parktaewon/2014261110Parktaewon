@@ -96,7 +96,7 @@ AndroidPrograming인데 m을 두개쓰는 오타가 발생하였지만 이미 �
 ```
 syntax: [보여질이름](링크주소)
 
-바로가기: [박태원의 Github](https://github.com/Parktaewon)
+바로가기: [박태원의 Github](https://github.com/parktaewon)
 
 <주소>
 
